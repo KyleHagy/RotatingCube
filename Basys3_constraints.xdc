@@ -257,10 +257,10 @@ set_property PACKAGE_PIN G17 [get_ports {Green[2]}]
 	set_property IOSTANDARD LVCMOS33 [get_ports {Green[2]}]
 set_property PACKAGE_PIN D17 [get_ports {Green[3]}]				
 	set_property IOSTANDARD LVCMOS33 [get_ports {Green[3]}]
-set_property PACKAGE_PIN P19 [get_ports Hsynq]						
-	set_property IOSTANDARD LVCMOS33 [get_ports Hsynq]
-set_property PACKAGE_PIN R19 [get_ports Vsynq]						
-	set_property IOSTANDARD LVCMOS33 [get_ports Vsynq]
+set_property PACKAGE_PIN P19 [get_ports Hsync]						
+	set_property IOSTANDARD LVCMOS33 [get_ports Hsync]
+set_property PACKAGE_PIN R19 [get_ports Vsync]						
+	set_property IOSTANDARD LVCMOS33 [get_ports Vsync]
 
 
 ##USB-RS232 Interface

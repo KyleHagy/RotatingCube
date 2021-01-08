@@ -2,7 +2,6 @@
 
 Rotating Cube on a screen utilizing VGA with a Basys 3 FPGA.  
 
-## TODO
+## Example output of rotating cube to monitor
 
-- Fix line drawing algorithm 
-- Clean up VGA Driver
+![IMG_Screen](https://imgur.com/1w9ltXv)
